@@ -18,11 +18,17 @@
 
 Join the technological revolution that’s taking the financial world by storm. Mastering Bitcoin is your guide through the seemingly complex world of bitcoin, providing the knowledge you need to participate in the internet of money. Whether you’re building the next killer app, investing in a startup, or simply curious about the technology, this revised and expanded second edition provides essential detail to get you started.
 
-### [Mastering Blockchain (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxUUF2YkVWaFRtZUU/view) *Download*
+### [Mastering Blockchain, 2nd Edition (2018)](https://drive.google.com/file/d/1B1LEO73CPom8ldSf2tMRRUcx28IW6tBk/view) *Download*
   
-<img src="https://www.packtpub.com/sites/default/files/B05975_MockupCover.png" width="120px"/>
+<img src="https://www.packtpub.com/sites/default/files/B09700_Cover.png" width="120px"/>
   
-Blockchain is a distributed database that enables permanent, transparent, and secure storage of data. The blockchain technology is the backbone of cryptocurrency – in fact, it's the shared public ledger upon which the entire Bitcoin network relies – and it's gaining popularity with people who work in finance, government, and the arts.
+A blockchain is a distributed ledger that is replicated across multiple nodes and enables immutable, transparent and cryptographically secure record-keeping of transactions. The blockchain technology is the backbone of cryptocurrencies, and it has applications in finance, government, media and almost all other industries. Mastering Blockchain, Second Edition has been thoroughly updated and revised to provide a detailed description of this leading technology and its implementation in the real world.
+
+### [Blockchain and the Law: The Rule of Code (2018)](https://drive.google.com/file/d/1jfMcmh3zMMlHFLJ5iJqOtLiqPnrk1II6/view) *Download*
+
+<img src="http://www.hup.harvard.edu/images/jackets/9780674976429.jpg" width="120px"/>
+
+Since Bitcoin appeared in 2009, the digital currency has been hailed as an Internet marvel and decried as the preferred transaction vehicle for all manner of criminals. It has left nearly everyone without a computer science degree confused: Just how do you “mine” money from ones and zeros? The answer lies in a technology called blockchain, which can be used for much more than Bitcoin. A general-purpose tool for creating secure, decentralized, peer-to-peer applications, blockchain technology has been compared to the Internet itself in both form and impact. Some have said this tool may change society as we know it. Blockchains are being used to create autonomous computer programs known as “smart contracts,” to expedite payments, to create financial instruments, to organize the exchange of data and information, and to facilitate interactions between humans and machines. The technology could affect governance itself, by supporting new organizational structures that promote more democratic and participatory decision making.
 
 ### [Blockchain: Blueprint for a New Economy (2015)](https://drive.google.com/file/d/19NJ1WGCmEl39VLCgLtXDk4tv8oWErrxh/view) *Download*
 
@@ -46,11 +52,17 @@ Blockchain is the technology behind Bitcoin, the revolutionary 'virtual currency
 **Decentralized Applications**
 ---
 
-### [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view) *Download*
+### [Building Games with Ethereum Smart Contracts (2018)](https://drive.google.com/file/d/1OYQzFxTnaFLYHOeNVJw-AUeYcfueg_Es/view) *Download*
 
-<img src="https://images.springer.com/sgw/books/medium/9781484225349.jpg" width="120px"/>
+<img src="https://images.springer.com/sgw/books/medium/9781484234914.jpg" width="120px"/>
 
-Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
+Learn how to take your existing knowledge of Ethereum and Solidity to the next level. Hone your development skills and become more familiar with the syntax of the Solidity language by working through well-tested, well-documented intermediate-level sample projects.
+
+### [Solidity Programming Essentials (2018)](https://drive.google.com/file/d/1WiXzYgqxfqybfd_KEzWNN0AQ62EcRrBN/view) *Download*
+
+<img src="https://www.packtpub.com/sites/default/files/B09675_0.png" width="120px"/>
+
+Solidity is a contract-oriented language whose syntax is highly influenced by JavaScript, and is designed to compile code for the Ethereum Virtual Machine. Solidity Programming Essentials will be your guide to understanding Solidity programming to build smart contracts for Ethereum and blockchain from ground-up.
 
 ### [Building Blockchain Projects (2017)](https://drive.google.com/file/d/0B81TNkQfgbpESjBjWHFDOS05ZWc/view) *Download*
 
@@ -69,6 +81,18 @@ This comprehensive guide delivers hands-on coverage of the development, validati
 <img src="https://images.springer.com/sgw/books/medium/9781484230800.jpg" width="120px"/>
 
 Work with blockchain and understand its potential application beyond cryptocurrencies in the domains of healthcare, Internet of Things, finance, decentralized organizations, and open science. Featuring case studies and practical insights generated from a start-up spun off from the author’s own lab, this book covers a unique mix of topics not found in others and offers insight into how to overcome real hurdles that arise as the market and consumers grow accustomed to blockchain based start-ups.
+
+### [Introducing Ethereum and Solidity (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxSlZsV2tENTFDRnM/view) *Download*
+
+<img src="https://images.springer.com/sgw/books/medium/9781484225349.jpg" width="120px"/>
+
+Learn how to use Solidity and the Ethereum project – second only to Bitcoin in market capitalization. Blockchain protocols are taking the world by storm, and the Ethereum project, with its Turing-complete scripting language Solidity, has rapidly become a front-runner. This book presents the blockchain phenomenon in context; then situates Ethereum in a world pioneered by Bitcoin.
+
+### [Decentralized Applications (2016)](http://file.allitebooks.com/20160822/Decentralized%20Applications.pdf) *Download*
+
+<img src="https://covers.oreillystatic.com/images/0636920039334/lrg.jpg" width="120px"/>
+
+Take advantage of Bitcoin’s underlying technology, the blockchain, to build massively scalable, decentralized applications known as dapps. In this practical guide, author Siraj Raval explains why dapps will become more widely used—and profitable—than today’s most popular web apps. You’ll learn how the blockchain’s cryptographically stored ledger, scarce-asset model, and peer-to-peer (P2P) technology provide a more flexible, better-incentivized structure than current software models.
 
 ### [Ethereum Frontier Guide (2016)](https://www.gitbook.com/download/pdf/book/ethereum/frontier-guide) *Download*
 
@@ -138,7 +162,7 @@ With the rise of bitcoin and blockchain technology, investors can capitalize on 
 
 ### [Ethereum Homestead Documentation (2017)](https://media.readthedocs.org/pdf/ethereum-homestead/latest/ethereum-homestead.pdf) *Download*
 
-<img src="https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black.png" width="120px"/>
+<img src="https://www.ethereum.org/images/logos/ETHEREUM-ICON_Black_small.png" width="120px"/>
 
 Ethereum is an open blockchain platform that lets anyone build and use decentralized applications that run on blockchain technology. Like Bitcoin, no one controls or owns Ethereum – it is an open-source project built by many people around the world. But unlike the Bitcoin protocol, Ethereum was designed to be adaptable and flexible. It is easy to create new applications on the Ethereum platform, and with the Homestead release, it is now safe for anyone to use those applications.
 
@@ -153,6 +177,12 @@ Solidity is a contract-oriented, high-level language for implementing smart cont
 <img src="https://www.ethereum.org/images/logos/ETHEREUM-LOGO_PORTRAIT_Black_small.png" width="120px"/>
 
 web3.js is a collection of libraries which allow you to interact with a local or remote ethereum node, using a HTTP or IPC connection. The following documentation will guide you through installing and running web3.js, as well as providing a API reference documentation with examples.
+
+### [Swarm Documentation (2018)](https://media.readthedocs.org/pdf/swarm-guide/latest/swarm-guide.pdf) *Download*
+
+<img src="https://swarm-guide.readthedocs.io/en/latest/_images/swarm-logo.jpg" width="120px"/>
+
+Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web 3 stack. The primary objective of Swarm is to provide a sufficiently decentralized and redundant store of Ethereum’s public record, in particular to store and distribute dapp code and data as well as block chain data. From an economic point of view, it allows participants to efficiently pool their storage and bandwidth resources in order to provide the aforementioned services to all participants.
 
 ### [Hyperledger Fabric Documentation (2018)](https://media.readthedocs.org/pdf/hyperledger-fabric/latest/hyperledger-fabric.pdf) *Download*
 
