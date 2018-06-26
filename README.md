@@ -6,6 +6,7 @@
 * [Decentralized Applications](#decentralized-applications)
 * [Security Books](#security-books)
 * [Bitcoin Books](#bitcoin-books)
+* [Hyperledger Books](#hyperledger-books)
 * [Documentations](#documentations)
 
 
@@ -120,6 +121,12 @@ Hundreds of blogs, videos, and books claim to explain Bitcoin. Some of them work
 **Bitcoin Books**
 ---
 
+### [Investigating Cryptocurrencies: Understanding, Extracting, and Analyzing Blockchain Evidence (2018)](https://drive.google.com/file/d/1xfW78TRZGPyGExYAgI9fvKkmRfcoP7rR/view) *Download*
+
+<img src="https://media.wiley.com/product_data/coverImage300/82/11194805/1119480582.jpg" width="120px"/>
+
+Bitcoin has traditionally been the payment system of choice for a criminal trading on the Dark Web, and now many other blockchain cryptocurrencies are entering the mainstream as traders are accepting them from low-end investors putting their money into the market. Worse still, the blockchain can even be used to hide information and covert messaging, unknown to most investigators.
+
 ### [A quick guide on building a GPU Mining Rig, 3rd Edition (2017)](https://drive.google.com/file/d/0B4hhbFaItiPxT25rVmZ3NVdrcms/view) *Download*
 
 <img src="https://html2-f.scribdassets.com/5qehea33eo5ypl28/images/1-fd2573e944.jpg" width="120px"/>
@@ -156,6 +163,15 @@ This is the first volume of the ‘Blockchain: The Hidden Gem of Data Networking
 
 With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world―and how to invest in these emerging assets to secure your financial future.
 
+**Hyperledger Books**
+---
+
+### [Hands-On Blockchain with Hyperledger (2018)](https://drive.google.com/file/d/121qFiLsO37nxSAud-HVI_UEtIeWMhb18/view) *Download*
+
+<img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B10152_Newcover.png" width="120px"/>
+
+Blockchain and Hyperledger technologiesare hot topics today. Hyperledger Fabric and Hyperledger Composer are open source projects that help organizations create private, permissioned blockchain networks. These find application in finance, banking, supply chain, and IoT among several other sectors. This book will be an easy reference to explore and build blockchain networks using Hyperledger technologies.
+
 
 **Documentations**
 ---
@@ -180,7 +196,7 @@ web3.js is a collection of libraries which allow you to interact with a local or
 
 ### [Swarm Documentation (2018)](https://media.readthedocs.org/pdf/swarm-guide/latest/swarm-guide.pdf) *Download*
 
-<img src="https://swarm-guide.readthedocs.io/en/latest/_images/swarm-logo.jpg" width="120px"/>
+<img src="https://swarm-guide.readthedocs.io/en/latest/_images/swarm.png" width="120px"/>
 
 Swarm is a distributed storage platform and content distribution service, a native base layer service of the ethereum web 3 stack. The primary objective of Swarm is to provide a sufficiently decentralized and redundant store of Ethereum’s public record, in particular to store and distribute dapp code and data as well as block chain data. From an economic point of view, it allows participants to efficiently pool their storage and bandwidth resources in order to provide the aforementioned services to all participants.
 
